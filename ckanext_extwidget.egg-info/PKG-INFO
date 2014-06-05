@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: ckanext-extwidget
+Version: 0.1
+Summary: This is a CKAN extension to create embedabble responsive widgets in other sites.
+Home-page: http://www.codeandomexico.org
+Author: Noé Domínguez Porras
+Author-email: noe@codeandomexico.org
+License: AGPL V3.0
+Description: 
+            
+Platform: UNKNOWN
