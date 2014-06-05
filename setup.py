@@ -26,5 +26,6 @@ setup(
         [ckan.plugins]
         # Add plugins here, e.g.
         # myplugin=ckanext.extwidget.plugin:PluginClass
+        example_iauthfunctions=ckanext.extwidget.iauthfunctions.plugin:ExampleIAuthFunctionsPlugin
     ''',
 )
