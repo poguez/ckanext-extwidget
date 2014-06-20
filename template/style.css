@@ -9,7 +9,7 @@ body {
 .module-content {
   background-color: #EEEEEE;
   padding: 25px 25px 25px;
-  overflow-y:scroll;
+  overflow-y: scroll;
 }
 article, aside, details, figcaption, figure, footer, header, hgroup, nav, section {
   display: block;
@@ -187,7 +187,7 @@ a {
 }
 
 
-//Additional info
+
 .additional-info td,
 .additional-info th {
   width: 50%;
@@ -206,25 +206,20 @@ h3{
   width: 100%;
   background-color:#121628;
   height: 55px;
+  width:100%;
+  text-align:center;
+  vertical-align:middle;
 }
 
 .img-footer{
   height:45px;
   margin-left:auto;
   margin-right:auto;
+  margin-top: 5px;
   display:block;
   vertical-align: middle;
 }
-.img-footer-div{
-  width:100%;
-  text-align:center;
-  vertical-align:middle;
-}
-.helper{
-  display:inline-block;
-  height:100%;
-  vertical-align:middle;
-}
+
 .table{
   font-size:1.2em;
 }
